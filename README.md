@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep-sharma
 - 👀 I’m interested in java,C,C++,python,JS,React
-- 🌱 I’m currently learning pthon
+- 🌱 I’m currently learning python and its framework
 - 💞️ I’m looking to collaborate on projects where I can test my skills
 - 📫 To reach me mail - sndpsharma973@gmail.com
 <!---
